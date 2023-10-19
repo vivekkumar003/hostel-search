@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Hostel A",
+      "price_per_month": "$300",
+      "location_km": 1.5,
+      "owner_mobile": "123-456-7890",
+      "owner_name":"abcd",
+      "image_url": "https://img.freepik.com/free-photo/architecture-sleep-window-relax-old_1253-605.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel B",
+      "price_per_month": "$250",
+      "location_km": 0.8,
+      "owner_mobile": "987-654-3210",
+      "owner_name":"xyz",
+      "image_url": "https://img.freepik.com/free-vector/dormitory-room-night-roommate-bunk-with-lamp-light-exam-preparation_1441-1763.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel B",
+      "price_per_month": "$250",
+      "location_km": 0.8,
+      "owner_mobile": "987-654-3210",
+      "owner_name":"pqr",
+      "image_url": "https://img.freepik.com/free-vector/dormitory-room-night-roommate-bunk-with-lamp-light-exam-preparation_1441-1763.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel B",
+      "price_per_month": "$250",
+      "location_km": 0.8,
+      "owner_mobile": "987-654-3210",
+      "owner_name":"zabc",
+      "image_url": "https://img.freepik.com/free-vector/dormitory-room-night-roommate-bunk-with-lamp-light-exam-preparation_1441-1763.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel B",
+      "price_per_month": "$250",
+      "location_km": 0.8,
+      "owner_mobile": "987-654-3210",
+      "owner_name":"rstv",
+      "image_url": "https://img.freepik.com/free-vector/dormitory-room-night-roommate-bunk-with-lamp-light-exam-preparation_1441-1763.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel B",
+      "price_per_month": "$250",
+      "location_km": 0.8,
+      "owner_mobile": "987-654-3210",
+      "owner_name":"rstv",
+      "image_url": "https://img.freepik.com/free-vector/dormitory-room-night-roommate-bunk-with-lamp-light-exam-preparation_1441-1763.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel B",
+      "price_per_month": "$250",
+      "location_km": 0.8,
+      "owner_mobile": "987-654-3210",
+      "owner_name":"rstv",
+      "image_url": "https://img.freepik.com/free-vector/dormitory-room-night-roommate-bunk-with-lamp-light-exam-preparation_1441-1763.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Hostel C",
+      "price_per_month": "$350",
+      "location_km": 2.0,
+      "owner_mobile": "555-123-4567",
+      "owner_name":"rstv",
+      "image_url": "https://img.freepik.com/free-photo/young-friends-hostel_52683-121727.jpg?size=626&ext=jpg"
+    }
+  ]
+  
